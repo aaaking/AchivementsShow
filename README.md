@@ -5,7 +5,7 @@
 运行 
 
 	java -jar userb513passwordb513.jar
-可以打开软件主界面，账号和密码都是userb513
+可以打开软件主界面，账号和密码都是b513
 
 按姓名查看学术论文
 ![按姓名查看学术论文](./showachivement.jpg)
