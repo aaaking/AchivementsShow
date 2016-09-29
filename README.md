@@ -8,7 +8,7 @@
 可以打开软件主界面，账号和密码都是userb513
 
 按姓名查看学术论文
-![按姓名查看学术论文](/Users/fuwu/Desktop/showachivement.jpg)
+![按姓名查看学术论文](./showachivement.jpg)
 
 修改某一篇论文信息
-![](/Users/fuwu/Desktop/2.jpg)
+![](./2.jpg)
